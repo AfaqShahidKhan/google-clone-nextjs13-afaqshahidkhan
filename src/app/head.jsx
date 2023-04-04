@@ -9,7 +9,7 @@ export default function Head() {
         name="description"
         content="Google clone in Nextjs 13 created by Afaq shahid khan and Muhammad Afaq khan afaqshahidkhan afaqkhan afaq khan"
       />
-      <link rel="icon" href="favicon.ico" />
+      <link rel="icon" href="favicon.svg" />
     </>
   );
 }
