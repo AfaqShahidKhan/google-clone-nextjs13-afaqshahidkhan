@@ -50,7 +50,7 @@ export default function HomeSearch() {
             <img
               src="loadingspinner.svg"
               alt="loading"
-              className="h-6 text-center"
+              className="h-6 text-center "
             />
           ) : (
             "I am Feeling Lucky"
